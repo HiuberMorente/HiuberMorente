@@ -4,6 +4,8 @@
 - 🌱 I am currently learning **JavaScript**, **CSS**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiuberMorente)](https://github.com/HiuberMorente/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiuberMorente)](https://github.com/HiuberMorente/github-readme-stats)
 <!--
 **HiuberMorente/HiuberMorente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
