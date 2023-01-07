@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hi 👋, I'm Hiuber Morente
+### A passionate Student of Web Development 💻💻
 
+- 🌱 I am currently learning **JavaScript**, **CSS**
 <!--
 **HiuberMorente/HiuberMorente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
